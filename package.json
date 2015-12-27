@@ -1,0 +1,14 @@
+{
+  "name": "countmein",
+  "version": "1.0.0",
+  "description": "Information Security, Web service, Final Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "countmein group",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
